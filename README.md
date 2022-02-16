@@ -7,6 +7,5 @@
 
 # Classified Picture
 
-1. 矩形网格背景分类图(pcolormesh)
-
-![fig1]https://github.com/xwj770427414/ScienceGallery/tree/main/Picture/Grid background classification map.jpg)
+1. 矩形网格色块背景分类图[Github](https://github.com/xwj770427414/ScienceGallery/tree/main/Classification/Grid_background.ipynb)/[Gitee](https://gitee.com/xwj770427414/ScienceGallery/tree/main/Classification/Grid_background.ipynb)
+![fig1](github.com/xwj770427414/ScienceGallery/tree/main/Picture/Grid_background.png)
